@@ -2,13 +2,13 @@ Amod Marathe 25070123073
 
 Experiment 8: Study of For Loop in Python
 
-## Aim
+ Aim
 
 To study and implement the **for loop in Python** .
 
 ---
 
-## Theory
+Theory
 
 A **for loop** in Python is used to iterate over a sequence such as a list, tuple, string, or range of numbers. It is mainly used when the **number of iterations is known**.
 
@@ -19,21 +19,21 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 
 # Algorithms 
 
-## 1. Print numbers from 1 to 5
+# 1. Print numbers from 1 to 5
 
 1. Start
 2. Use for loop with range from 1 to 5
 3. Print each number
 4. Stop
 
-## 2. Print even numbers from 1 to 11
+# 2. Print even numbers from 1 to 11
 
 1. Start
 2. Use for loop with range starting from 2 and step 2
 3. Print numbers
 4. Stop
 
-## 3. Sum of first n numbers
+# 3. Sum of first n numbers
 
 1. Start
 2. Input value of `n`
@@ -43,7 +43,7 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 6. Display sum
 7. Stop
 
-## 4. Print a 3×3 matrix
+# 4. Print a 3×3 matrix
 
 1. Start
 2. Create a matrix
@@ -52,7 +52,7 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 5. Move to next line after each row
 6. Stop
 
-## 5. Print matrix using rows
+# 5. Print matrix using rows
 
 1. Start
 2. Create matrix
@@ -60,7 +60,7 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 4. Print the row
 5. Stop
 
-## 6. Multiplication of two 3×3 matrices
+# 6. Multiplication of two 3×3 matrices
 
 1. Start
 2. Define two matrices
@@ -70,7 +70,7 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 6. Print result matrix
 7. Stop
 
-## 7. Print all combinations of three digits
+# 7. Print all combinations of three digits
 
 1. Start
 2. Store digits in a list
@@ -79,14 +79,14 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 5. Print valid combinations
 6. Stop
 
-## 8. Right-angled triangle pattern
+# 8. Right-angled triangle pattern
 
 1. Start
 2. Use for loop with decreasing values
 3. Print stars in each row
 4. Stop
 
-## 9. Pyramid star pattern
+# 9. Pyramid star pattern
 
 1. Start
 2. Set number of rows
@@ -95,7 +95,7 @@ In Python, nested for loops can also be used to work with matrices, patterns, an
 5. Stop
 
 
-## 10. Print prime numbers from 1 to 50
+# 10. Print prime numbers from 1 to 50
 
 1. Start
 2. Take numbers from 1 to 50
